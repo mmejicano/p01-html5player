@@ -22,7 +22,7 @@
 <!-- efecto de estrellas -->
 <div id="particles-js"> </div>
 
-<div class="container">
+<div class="container shadow">
     <div class="row">
 
     <div class="col-lg" id="instructions">   
